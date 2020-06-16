@@ -5,25 +5,25 @@ This [RL course by David Silver](https://www.youtube.com/playlist?list=PLqYmG7hT
 
 ## Lectures
 
-- Lecture 1: Introduction to Reinforcement Learning ✅
+- [x] Lecture 1: Introduction to Reinforcement Learning
 
-- Lecture 2: Markov Decision Process
+- [ ] Lecture 2: Markov Decision Process
 
-- Lecture 3: Planning by Dynamic Programming
+- [ ] Lecture 3: Planning by Dynamic Programming
 
-- Lecture 4: Model-Free Prediction
+- [ ] Lecture 4: Model-Free Prediction
 
-- Lecture 5: Model Free Control
+- [ ] Lecture 5: Model Free Control
 
-- Lecture 6: Value Function Approximation
+- [ ] Lecture 6: Value Function Approximation
 
-- Lecture 7: Policy Gradient Methods
+- [ ] Lecture 7: Policy Gradient Methods
 
-- Lecture 8: Integrating Learning and Planning
+- [ ] Lecture 8: Integrating Learning and Planning
 
-- Lecture 9: Exploration and Exploitation
+- [ ] Lecture 9: Exploration and Exploitation
 
-- Lecture 10: Classic Games
+- [ ] Lecture 10: Classic Games
 
 
 ## References
