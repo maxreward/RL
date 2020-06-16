@@ -11,6 +11,7 @@
 Reinforcement learning is based on the **reward hypothesis**.
 
 >   **Definition (Reward Hypothesis)**
+>
 >   All goals can be described by the maximization of the expected cumulative reward.
 
 ### Sequential Decision Making
@@ -76,11 +77,12 @@ $$
 -   An **information state** (a.k.a. **Markov state**) contains all useful information from the history.
 
 >   **Definition**
+>
 >   A state $S_t$ is Markov if and only if
 >   $$
 >   \mathbb{P}\left[S_{t+1} | S_{t}\right]=\mathbb{P}\left[S_{t+1} | S_{1}, \ldots, S_{t}\right]
 >   $$
->   
+>
 
 -   "The future is independent of the past given the present"
 
