@@ -5,7 +5,7 @@ This [RL course by David Silver](https://www.youtube.com/playlist?list=PLqYmG7hT
 
 ## Lectures
 
-- Lecture 1: Introduction to Reinforcement Learning
+- Lecture 1: Introduction to Reinforcement Learning ✅
 
 - Lecture 2: Markov Decision Process
 
