@@ -22,7 +22,7 @@ All goals can be described by the maximization of the expected cumulative reward
 
 ### Agent and Environment
 
-![image-20200615173239400](image/rl.png)
+<img src="image/rl.png" alt="image-20200615173239400" style="zoom:25%;" />
 
 -   At each step $t$ the agent:
     -   Executes action $A_t$
@@ -175,7 +175,7 @@ $$
 
 ### RL Agent Taxonomy
 
-![image-20200615190334754](image/rl_agent_taxonomy.png)
+<img src="image/rl_agent_taxonomy.png" alt="image-20200615190334754" style="zoom:25%;" />
 
 ## Problems Within RL
 
