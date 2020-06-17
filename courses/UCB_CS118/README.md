@@ -1,4 +1,4 @@
-# RL Course by David Silver
+# UC Berkeley CS188 Intro to AI
 
 This [Intro to AI course by Dan Klein and Pieter Abbeel](http://ai.berkeley.edu/lecture_videos.html) is publicly available. For the purpose of RL, I only went over lectures 8, 9, 10, and 11.
 
