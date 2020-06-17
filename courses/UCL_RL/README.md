@@ -1,6 +1,6 @@
 # RL Course by David Silver
 
-This [RL course by David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) is publicly available on YouTube. All my notes are based on the course slides.
+This [RL course by David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) is publicly available on YouTube.
 
 
 ## Lectures
@@ -9,7 +9,7 @@ This [RL course by David Silver](https://www.youtube.com/playlist?list=PLqYmG7hT
 
 - [x] Lecture 2: Markov Decision Process
 
-- [ ] Lecture 3: Planning by Dynamic Programming
+- [x] Lecture 3: Planning by Dynamic Programming
 
 - [ ] Lecture 4: Model-Free Prediction
 
@@ -24,8 +24,3 @@ This [RL course by David Silver](https://www.youtube.com/playlist?list=PLqYmG7hT
 - [ ] Lecture 9: Exploration and Exploitation
 
 - [ ] Lecture 10: Classic Games
-
-
-## References
-
-“Teaching.” David Silver. www.davidsilver.uk, https://www.davidsilver.uk/teaching/. Accessed 16 June 2020.
