@@ -7,7 +7,7 @@ This [RL course by David Silver](https://www.youtube.com/playlist?list=PLqYmG7hT
 
 - [x] Lecture 1: Introduction to Reinforcement Learning
 
-- [ ] Lecture 2: Markov Decision Process
+- [x] Lecture 2: Markov Decision Process
 
 - [ ] Lecture 3: Planning by Dynamic Programming
 
