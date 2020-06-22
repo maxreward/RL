@@ -9,6 +9,6 @@ This [Intro to AI course by Dan Klein and Pieter Abbeel](http://ai.berkeley.edu/
 
 - [x] Lecture 9: Markov Decision Processes II
 
-- [x] Lecture 10: Reinforcement Learning I
+- [ ] Lecture 10: Reinforcement Learning I
 
 - [ ] Lecture 10: Reinforcement Learning II
