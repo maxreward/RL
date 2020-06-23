@@ -11,7 +11,7 @@ This [RL course by David Silver](https://www.youtube.com/playlist?list=PLqYmG7hT
 
 - [x] Lecture 3: Planning by Dynamic Programming
 
-- [ ] Lecture 4: Model-Free Prediction
+- [x] Lecture 4: Model-Free Prediction
 
 - [ ] Lecture 5: Model Free Control
 
