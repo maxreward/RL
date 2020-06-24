@@ -13,7 +13,7 @@ This [RL course by David Silver](https://www.youtube.com/playlist?list=PLqYmG7hT
 
 - [x] Lecture 4: Model-Free Prediction
 
-- [ ] Lecture 5: Model Free Control
+- [x] Lecture 5: Model Free Control
 
 - [ ] Lecture 6: Value Function Approximation
 
