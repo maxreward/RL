@@ -102,8 +102,8 @@ $$v_{\pi}(s)=\mathbb{E}_{\pi}\left[R_{t+1}+\gamma R_{t+2}+\gamma^{2} R_{t+3}+\ld
 
 ### Model
 - A model predicts what the environment will do next
-- $$\mathcal{P}$$ predicts the next state
-- $$\mathcal{R}$$ predicts the next (immediate) reward, e.g.
+- Transitions: $$\mathcal{P}$$ predicts the next state
+- Rewards: $$\mathcal{R}$$ predicts the next (immediate) reward, e.g.
 $$\begin{aligned} \mathcal{P}_{s s^{\prime}}^{a} &=\mathbb{P}\left[S_{t+1}=s^{\prime} \mid S_{t}=s, A_{t}=a\right] \\ \mathcal{R}_{s}^{a} &=\mathbb{E}\left[R_{t+1} \mid S_{t}=s, A_{t}=a\right] \end{aligned}$$
 
 ### Categorizing RL Agents
