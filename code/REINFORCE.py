@@ -138,3 +138,12 @@ for episode in range(1, num_episodes + 1):
             f"The policy has reached reward threshold {reward_threshold} in {episode} episodes."
         )
         break
+
+plt.figure(figsize=(12, 8))
+plt.plot(test_rewards, label="Test Reward")
+plt.plot(train_rewards, label="Train Reward")
+plt.xlabel("Episode", fontsize=20)
+plt.ylabel("Reward", fontsize=20)
+plt.hlines(reward_threshold, 0, len(test_rewards), color="r")
+plt.legend(loc="lower right")
+plt.grid()
